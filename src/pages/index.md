@@ -3,7 +3,7 @@ templateKey: index-page
 title: Maxitalentos
 image: /img/hr_text1.jpg
 heading: Talento para encontrar Talentos
-subheading: Bolsa de Trabajo en México
+subheading: Consultoría de Recursos Humanos
 mainpitch:
   title: ¿Por qué MaxiTalentos?
   description: >
@@ -14,39 +14,26 @@ description: "MaxiTalentos es para aquellas organizaciones que creen en la
   importancia de la administración adecuada del capital humano. "
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/pexels-cottonbro-5989935.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        
+        Servicios personalizados de atracción y selección de talento de acuerdo a tus necesidades.
+    - image: /img/seminar-594125__340.jpg
+      text: "Consultoría en la determinación de estructuras organizacionales,
+        definición de perfil de puestos, desarrollo organizacional, sueldos y
+        compensaciones. "
+    - image: /img/pexels-fauxels-3184296.jpg
+      text: Talleres de trabajo, cursos y conferencias con la finalidad de maximizar
+        el talento de las empresas.
+    - image: /img/vecteezy_businessman-hand-choosing-people-icon-as-human-resources__95.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Bolsa de trabajo, ofreciendo la vinculación entre los candidatos y las
+        organizaciones. 
   heading: ¿Qué ofrecemos?
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Nosotros ofrecemos servicios personalizados a las necesidades planteadas por
+    las organizaciones. Estamos orgullos de facilitar una variedad de servicios
+    para lograr el aprovechamiento máximo del talento humano. 
 main:
   heading: Great coffee with no compromises
   description: >
