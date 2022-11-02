@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Maxitalentos
-image: /img/hr_text1.jpg
+image: /img/vecteezy_business-consulting-meeting-working-and-brainstorming-new_10813099_348.jpg
 heading: Talento para encontrar Talentos
 subheading: Consultoría de Recursos Humanos
 mainpitch:
@@ -17,18 +17,20 @@ intro:
     - image: /img/pexels-cottonbro-5989935.jpg
       text: >
         
+
         Servicios personalizados de atracción y selección de talento de acuerdo a tus necesidades.
     - image: /img/seminar-594125__340.jpg
-      text: "Consultoría en la determinación de estructuras organizacionales,
-        definición de perfil de puestos, desarrollo organizacional, sueldos y
-        compensaciones. "
+      text: >-
+        
+        Consultoría en la determinación de estructuras organizacionales, definición de perfil de puestos, desarrollo organizacional, sueldos y compensaciones. 
     - image: /img/pexels-fauxels-3184296.jpg
-      text: Talleres de trabajo, cursos y conferencias con la finalidad de maximizar
-        el talento de las empresas.
-    - image: /img/vecteezy_businessman-hand-choosing-people-icon-as-human-resources__95.jpg
+      text: >-
+        
+        Talleres de trabajo, cursos y conferencias con la finalidad de maximizar el talento de las empresas.
+    - image: /img/pexels-cottonbro-5989933.jpg
       text: >
-        Bolsa de trabajo, ofreciendo la vinculación entre los candidatos y las
-        organizaciones. 
+        
+        Bolsa de trabajo, ofreciendo la vinculación entre los candidatos y las organizaciones. 
   heading: ¿Qué ofrecemos?
   description: >
     Nosotros ofrecemos servicios personalizados a las necesidades planteadas por
