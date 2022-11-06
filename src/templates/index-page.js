@@ -38,7 +38,7 @@ export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch
                   <Features gridItems={intro.blurbs} />
                   <div className='columns'>
                     <div className='column is-12 has-text-centered'>
-                      <Link className='btn has-text-primary' to='/servicios'>
+                      <Link className='btn' to='/servicios'>
                         Servicios
                       </Link>
                     </div>
@@ -47,7 +47,7 @@ export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch
                     <h3 className='has-text-weight-semibold is-size-2'>Artículos Recientes</h3>
                     <BlogRoll />
                     <div className='column is-12 has-text-centered'>
-                      <Link className='btn has-text-primary' to='/blog'>
+                      <Link className='btn' to='/blog'>
                         Ver más
                       </Link>
                     </div>

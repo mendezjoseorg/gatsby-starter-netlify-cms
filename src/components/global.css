@@ -1,0 +1,7 @@
+.no-hover-effect {
+  color: #333;
+}
+
+.no-hover-effect:hover {
+  color: unset;
+}

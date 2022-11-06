@@ -34,7 +34,9 @@ const BlogRollTemplate = (props) => {
                     {post.frontmatter.title}
                   </Link>
                   <span> &bull; </span>
-                  <span className='subtitle is-size-5 is-block'>{post.frontmatter.date}</span>
+                  <span style={{ textTransform: 'capitalize' }} className='subtitle is-size-5 is-block'>
+                    {post.frontmatter.date}
+                  </span>
                 </p>
               </header>
               <p>
@@ -79,7 +81,7 @@ export default function BlogRoll() {
                 frontmatter {
                   title
                   templateKey
-                  date(formatString: "MMMM DD, YYYY")
+                  date(formatString: "MMMM DD, YYYY", locale: "es")
                   featuredpost
                   featuredimage {
                     childImageSharp {
