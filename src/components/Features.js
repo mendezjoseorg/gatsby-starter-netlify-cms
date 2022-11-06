@@ -5,7 +5,7 @@ import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
 
 const texts = ['Servicios Personalizados', 'Consultoria', 'Talleres, Cursos y Conferencias', 'Bolsa de Trabajo'];
 const links = [
-  '/servcios/servicios-personalizados',
+  '/servicios/servicios-personalizados',
   '/servicios/consultoria',
   '/servicios/talleres-cursos-conferencias',
   '/servicios/bolsa-de-trabajo',
