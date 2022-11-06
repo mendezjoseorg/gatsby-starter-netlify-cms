@@ -23,24 +23,24 @@ const Footer = () => {
                 <ul className='menu-list'>
                   <li>
                     <Link to='/' className='navbar-item'>
-                      Home
+                      Inicio
                     </Link>
                   </li>
                   <li>
-                    <Link className='navbar-item' to='/about'>
-                      About
+                    <Link className='navbar-item' to='/acerca'>
+                      Acerca de
                     </Link>
                   </li>
                   <li>
-                    <Link className='navbar-item' to='/products'>
-                      Products
+                    <Link className='navbar-item' to='/servicios'>
+                      Servicios
                     </Link>
                   </li>
-                  <li>
+                  {/* <li>
                     <Link className='navbar-item' to='/contact/examples'>
                       Form Examples
                     </Link>
-                  </li>
+                  </li> */}
                   <li>
                     <a className='navbar-item' href='/admin/' target='_blank' rel='noopener noreferrer'>
                       Admin
@@ -54,12 +54,12 @@ const Footer = () => {
                 <ul className='menu-list'>
                   <li>
                     <Link className='navbar-item' to='/blog'>
-                      Latest Stories
+                      Artículos Recientes
                     </Link>
                   </li>
                   <li>
-                    <Link className='navbar-item' to='/contact'>
-                      Contact
+                    <Link className='navbar-item' to='/contacto'>
+                      Contacto
                     </Link>
                   </li>
                 </ul>

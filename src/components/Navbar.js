@@ -30,12 +30,12 @@ const Navbar = () => {
                 re-write that makes this unneccesary.
              */}
           <li className='navbar-item' style={{ padding: '0px' }}>
-            <Link className='navbar-item' to='/about'>
+            <Link className='navbar-item' to='/acerca'>
               Acerca de
             </Link>
           </li>
           <li className='navbar-item' style={{ padding: '0px' }}>
-            <Link className='navbar-item' to='/products'>
+            <Link className='navbar-item' to='/servicios'>
               Servicios
             </Link>
           </li>
@@ -45,7 +45,7 @@ const Navbar = () => {
             </Link>
           </li>
           <li className='navbar-item' style={{ padding: '0px' }}>
-            <Link className='navbar-item' to='/contact'>
+            <Link className='navbar-item' to='/contacto'>
               Contacto
             </Link>
           </li>
