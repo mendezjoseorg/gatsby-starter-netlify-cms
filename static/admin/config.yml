@@ -32,7 +32,7 @@ collections:
     label: 'Pages'
     files:
       - file: 'src/pages/index.md'
-        label: 'Landing Page'
+        label: 'Pagina de Inicio'
         name: 'index'
         fields:
           - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'index-page' }
@@ -92,16 +92,44 @@ collections:
                   },
                 ],
             }
-      - file: 'src/pages/about/index.md'
+      - file: 'src/pages/acerca/index.md'
         label: 'About'
         name: 'about'
         fields:
           - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'about-page' }
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
-      - file: 'src/pages/products/index.md'
-        label: 'Products Page'
-        name: 'products'
+      - file: 'src/pages/servicios/consultoria.md'
+        label: 'Consultoria'
+        name: 'consultoria'
+        fields:
+          - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'about-page' }
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - file: 'src/pages/servicios/bolsa-de-trabajo.md'
+        label: 'Bolsa de Trabajo'
+        name: 'bolsa-de-trabajo'
+        fields:
+          - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'about-page' }
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - file: 'src/pages/servicios/servicios-personalizados.md'
+        label: 'Servicios Personzalizados'
+        name: 'servicios-personalizados'
+        fields:
+          - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'about-page' }
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - file: 'src/pages/servicios/talleres-cursos-conferencias.md'
+        label: 'Talleres, Cursos y Conferencias'
+        name: 'talleres-cursos-conferencias'
+        fields:
+          - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'about-page' }
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - file: 'src/pages/servicios/index.md'
+        label: 'Servicios'
+        name: 'servicios'
         fields:
           - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'product-page' }
           - { label: Title, name: title, widget: string }
