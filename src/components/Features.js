@@ -3,7 +3,7 @@ import { Link } from 'gatsby';
 import PropTypes from 'prop-types';
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
 
-const texts = ['Servicios Personalizados', 'Consultoria', 'Talleres, Cursos y Conferencias', 'Bolsa de Trabajo'];
+const texts = ['Servicios Personalizados', 'Consultoría', 'Talleres, Cursos y Conferencias', 'Bolsa de Trabajo'];
 const links = [
   '/servicios/servicios-personalizados',
   '/servicios/consultoria',
