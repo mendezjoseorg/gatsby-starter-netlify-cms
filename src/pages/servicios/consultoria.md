@@ -3,22 +3,17 @@ templateKey: about-page
 path: /servicios/consultoria
 title: Consultoria
 ---
-
 ![](/img/desk-5020801__340.jpg)
 
 ## **Consultoría**
 
-Somos una empresa dedicada a la consultoría de recursos humanos, ofreciendo servicios de atracción de talento, desarrollo organizacional, cumplimiento de normatividad y capacitación, con la finalidad de maximizar el talento de las personas y organizaciones.
+Somos una empresa dedicada a asesorar a las empresas, organizaciones y personas en temas relacionados con Recursos Humanos, Desarrollo Personal, Desarrollo Empresarial y Profesional buscando maximizar el talento de las personas y organizaciones.
 
-## **Visión**
+**N﻿uestros servicios:**
 
-Ser el enlace entre el talento de los empleados y las necesidades de las empresas a nivel nacional.
-
-## **Valores**
-
-- Honestidad
-- E﻿quidad
-- R﻿esponsabilidad
-- É﻿tica
-- R﻿espeto
-- T﻿rabajo en Equipo
+* Diagnóstico de Clima Laboral
+* Nom-035
+* Elaboración de Descripciones de Puestos
+* D﻿esarrollo de Políticas
+* Assessment Center
+* Diseño de Estructura Organizacional
