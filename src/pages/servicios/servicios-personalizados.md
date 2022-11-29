@@ -3,22 +3,23 @@ templateKey: about-page
 path: /servicios/servicios-personalizados
 title: Servicios Personalizados
 ---
-
 ![](/img/desk-5020801__340.jpg)
 
 ## **Servicios Personalizados**
 
-Somos una empresa dedicada a la consultoría de recursos humanos, ofreciendo servicios de atracción de talento, desarrollo organizacional, cumplimiento de normatividad y capacitación, con la finalidad de maximizar el talento de las personas y organizaciones.
+Somos una empresa dedicada a la consultoría de recursos humanos. Ofrecemos servicios con la finalidad de maximizar el talento de las personas y organizaciones.    
 
-## **Visión**
+Nuestros principales servicios especializados:
 
-Ser el enlace entre el talento de los empleados y las necesidades de las empresas a nivel nacional.
+* Reclutamiento y selección de personal de acuerdo con tus necesidades. 
+* Desarrollo de esquema de beneficios y compensaciones.
 
-## **Valores**
+* Desarrollo de esquema de beneficios y compensaciones.
 
-- Honestidad
-- E﻿quidad
-- R﻿esponsabilidad
-- É﻿tica
-- R﻿espeto
-- T﻿rabajo en Equipo
+* Asesoría para la Administración de nómina-. Cálculo y pago de nómina e impuestos IMSS, SAR INFONAVIT, PTU.
+
+* Desarrollo de marca empleadora.
+
+* Diseño de estrategias de integración de personal.
+
+* Mentoría
