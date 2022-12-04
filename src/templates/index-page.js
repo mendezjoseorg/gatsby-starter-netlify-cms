@@ -38,9 +38,9 @@ export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch
                   <Features gridItems={intro.blurbs} />
                   <div className='columns'>
                     <div className='column is-12 has-text-centered'>
-                      <Link className='btn' to='/servicios'>
+                      {/* <Link className='btn' to='/servicios'>
                         Servicios
-                      </Link>
+                      </Link> */}
                     </div>
                   </div>
                   <div className='column is-12'>
