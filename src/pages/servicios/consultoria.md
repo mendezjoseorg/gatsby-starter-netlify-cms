@@ -5,8 +5,6 @@ title: Consultoria
 ---
 ![](/img/desk-5020801__340.jpg)
 
-## **Consultoría**
-
 Somos una empresa dedicada a asesorar a las empresas, organizaciones y personas en temas relacionados con Recursos Humanos, Desarrollo Personal, Desarrollo Empresarial y Profesional buscando maximizar el talento de las personas y organizaciones.
 
 **N﻿uestros servicios:**
