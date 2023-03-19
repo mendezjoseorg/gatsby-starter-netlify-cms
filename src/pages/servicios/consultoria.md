@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 path: /servicios/consultoria
-title: Consultoria
+title: Consultoría
 ---
 ![](/img/desk-5020801__340.jpg)
 
